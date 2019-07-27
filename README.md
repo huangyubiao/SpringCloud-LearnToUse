@@ -1,4 +1,4 @@
-# SpringCloud-LearnToUse
+# SpringCloud之Eureka
 
 ## 前言  
 spring cloud为互联企业构建微服务提供了一整套的技术组件，其中Eureka是Spring Cloud体系中的核心。Netfix不是一个技术概念，它原本是国外一个视频网站的名称。这个视频网站的技术团队在微服务方向做了大量实践，并提供了很多的技术组件，Eureka就是其中之一。笔者也是Spring Cloud初学者，本文从创建项目工程开始，一步一步开始讲解如何创建eureka服务端和客户端，一起学习，共同进步。  
